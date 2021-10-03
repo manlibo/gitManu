@@ -1,3 +1,3 @@
 <?php
-//Tarea02
+//Tarea02 Modificada
 ?>
